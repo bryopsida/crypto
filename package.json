@@ -22,7 +22,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/bryopsida/key-store.git"
+    "url": "git+https://github.com/bryopsida/crypt.git"
   },
   "keywords": [
     "crypto",
@@ -35,9 +35,9 @@
   "author": "",
   "license": "Unlicense",
   "bugs": {
-    "url": "https://github.com/bryopsida/key-store/issues"
+    "url": "https://github.com/bryopsida/crypto/issues"
   },
-  "homepage": "https://github.com/bryopsida/key-store#readme",
+  "homepage": "https://github.com/bryopsida/crypto#readme",
   "devDependencies": {
     "@bryopsida/key-store": "^0.1.3",
     "@jest/globals": "29.4.1",
