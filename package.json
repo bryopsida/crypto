@@ -1,6 +1,6 @@
 {
   "name": "@bryopsida/crypto",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "A crypto library utilizing @bryopsida/key-store to protect data using data encryption keys",
   "main": "lib/index.js",
   "exports": "./lib/index.js",
