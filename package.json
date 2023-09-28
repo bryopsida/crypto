@@ -1,6 +1,6 @@
 {
   "name": "@bryopsida/crypto",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "description": "A crypto library utilizing @bryopsida/key-store to protect data using data encryption keys",
   "main": "lib/index.js",
   "exports": "./lib/index.js",
@@ -22,7 +22,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/bryopsida/crypt.git"
+    "url": "git+https://github.com/bryopsida/crypto.git"
   },
   "keywords": [
     "crypto",
@@ -39,7 +39,7 @@
   },
   "homepage": "https://github.com/bryopsida/crypto#readme",
   "devDependencies": {
-    "@bryopsida/key-store": "^0.1.3",
+    "@bryopsida/key-store": "^0.1.4",
     "@jest/globals": "29.7.0",
     "@types/jest": "^29.0.0",
     "@types/node": "^20.0.0",
